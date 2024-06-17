@@ -3,6 +3,13 @@
 ## 📜 Description
 "Born2BeRoot" is a project focused on system and network security, developed during my time at 42 School. The goal is to configure and secure a Debian-based server, implementing various services and security protocols. This project helps in understanding and applying best practices in system administration and security.
 
+
+### ⭐ My 42 score for this project:
+![image](https://github.com/yvann-ba/Born2BeRoot/assets/97234242/276aef37-3a2d-4d1e-a91e-aae5d519b7f5)
+
+### 📄 Official 42 School Subject:
+https://github.com/rphlr/42-Subjects/blob/main/common-core/Born2beroot/en.subject.pdf
+
 ## 🌟 Features
 - Secure configuration of a Debian server
 - Implementation of essential services
